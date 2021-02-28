@@ -29,12 +29,7 @@ const ALL_ROUTES = [
                 </article>
             </div>
         </section>
-    </main>
-    <aside>
-        <button>Home</button>
-        <button>About</button>
-        <button>Contact</button>
-    </aside>`
+    </main>`
     },
     {
         name: "about",
@@ -43,12 +38,7 @@ const ALL_ROUTES = [
         <main>
             <h2>what´s Wild Live?</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda, voluptate vero aut laborum architecto fuga quod. Aspernatur esse a odio, hic, in ipsam commodi saepe consectetur sit, corrupti quis cupiditate?</p>
-        </main>
-        <aside>
-            <button>Home</button>
-            <button>About</button>
-            <button>Contact</button>
-        </aside>`
+        </main>`
     },
     {
         name: "contact",
@@ -62,12 +52,7 @@ const ALL_ROUTES = [
                 <input type="text" name="" placeholder="ingresa el mensaje" id="">
                 <button>Enviar</button>
             </form>
-        </main>
-        <aside>
-            <button>Home</button>
-            <button>About</button>
-            <button>Contact</button>
-        </aside>`
+        </main>`
     },
 ]
 
